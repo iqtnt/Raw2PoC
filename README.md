@@ -56,6 +56,3 @@ The author 👤 is not responsible for any misuse ❌ or illegal activity ⚖️
 git clone https://github.com/iqtnt/Raw2PoC.git
 cd Raw2PoC
 python3 app.py
-
-
-ّّّذذ
