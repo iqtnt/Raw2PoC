@@ -1,4 +1,4 @@
-# Raw2PoC
+# 🧪 Raw2PoC
 
 Raw2PoC is a lightweight web tool designed for security researchers and bug bounty hunters to transform raw HTTP requests into executable Proof‑of‑Concepts (PoCs).
 
@@ -47,3 +47,11 @@ This tool is intended for educational and authorized security testing purposes o
 
 Use Raw2PoC only on systems you own or have explicit permission to test.
 The author is not responsible for any misuse or illegal activity.
+
+## 🚀 Usage
+
+```bash
+git clone https://github.com/iqtnt/Raw2PoC.git
+cd Raw2PoC
+python3 app.py
+```
