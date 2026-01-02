@@ -48,7 +48,7 @@ This tool is intended for educational and authorized security testing purposes o
 Use Raw2PoC only on systems you own or have explicit permission to test.
 The author is not responsible for any misuse or illegal activity.
 
-## 🚀 Usage
+## 🚀 Install
 
 ```bash
 git clone https://github.com/iqtnt/Raw2PoC.git
