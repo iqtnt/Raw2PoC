@@ -1,5 +1,8 @@
 from flask import Flask, request, render_template_string, make_response, jsonify
 import uuid, requests
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 app = Flask(__name__)
 POCS = {}
